@@ -1,26 +1,40 @@
 body{
+	display: flex;
+	justify-content: space-around;
 	margin: 40px 40px 40px 40px;
-	height: 141%; 
-	width: 80%;
+	height: fit-content; 
+	width: fit-content;
+	overflow-x:hidden;
 	font-family: 'Roboto', sans-serif;
+}
+a, a:visited, a:hover, a:active {
+  color: blue;
+}
+p,li{
+	margin: 0;
+	padding: 0;
 }
 .a4{
 	padding: 10px 10px 10px 10px;
 	height: 141%; 
-	width: 100%;
-	
+	width: fit-content;
+	overflow-x:hidden;
 }
 .contact{
 	display: flex;
-	flex-direction: column;
+	justify-content: space-between;
 }
 .contact1{
 	display: flex;
-	justify-content: space-between
+	flex-direction: column;
+	justify-content: space-between;
 }
 .cont{
 	display: flex;
 	font-size: 16px;
+}
+.contact1 .cont:first-of-type{
+	padding-bottom: 10px;
 }
 a{
 	display: flex;
@@ -45,3 +59,20 @@ table, th, td {
   border: 1px solid;
   border-color: #bababa;
 }
+.trainHeading{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.trainHeading p:first-of-type{
+	font-weight: bold;
+}
+.trainHeading p:last-of-type{
+	font-weight: normal; 
+}
+.trainHeading a:first-of-type{
+	font-weight: bold;
+	text-decoration: none;
+}
+
