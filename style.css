@@ -1,0 +1,47 @@
+body{
+	margin: 40px 40px 40px 40px;
+	height: 141%; 
+	width: 80%;
+	font-family: 'Roboto', sans-serif;
+}
+.a4{
+	padding: 10px 10px 10px 10px;
+	height: 141%; 
+	width: 100%;
+	
+}
+.contact{
+	display: flex;
+	flex-direction: column;
+}
+.contact1{
+	display: flex;
+	justify-content: space-between
+}
+.cont{
+	display: flex;
+	font-size: 16px;
+}
+a{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.edu{
+	
+}
+h3{
+	background-color: rgb(214, 214, 214);
+	padding-top: 4px;
+	padding-left: 4px;
+	padding-bottom: 4px;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+
+}
+table, th, td {
+  border: 1px solid;
+  border-color: #bababa;
+}
