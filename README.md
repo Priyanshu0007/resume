@@ -10,7 +10,7 @@
 
 ## Description
 
-Creating a Pig Game website using JavaScript, HTML, and CSS involves building an interactive web application where two players take turns rolling dice to accumulate points while avoiding the risk of rolling a '1' and losing their turn. The HTML structure defines the game board, player scores, dice images, and buttons, while CSS is utilized to style the interface, making it visually appealing and responsive. JavaScript handles the game logic, including dice rolling, updating scores, checking for a winner, and implementing the core rules. It also manages player turns and dynamically updates the user interface based on game events. Additionally, sound effects and animations can be incorporated to enhance the gaming experience, making it an engaging and entertaining web-based rendition of the classic Pig Game.
+Creating a resume using HTML and CSS involves crafting a structured and visually appealing document that showcases your professional background and skills. In HTML, you define the content, including headings, paragraphs, lists, and links, while CSS is used to style the resume with fonts, colors, layouts, and responsive design. By combining these technologies, you can design an eye-catching and accessible resume that highlights your qualifications and stands out to potential employers.
 
 
 
