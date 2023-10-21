@@ -1,6 +1,6 @@
 
 # Resume
-### [Live Site](https://scoring-game.surge.sh/)
+### [Live Site](https://priyanshu0007.github.io/resume/)
 
 
 
